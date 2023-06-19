@@ -1,0 +1,10 @@
+.square{
+    height: 120px;
+    width: 120px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    margin: 16px;
+    font-weight: 200;
+    font-size:large;
+}
+
