@@ -1,11 +1,11 @@
 import React from "react";
-import Board from "./board";
+import Game from "./game";
 
 function App() {
 
   return (
     <div className="App">
-      <Board />
+      <Game />
 
     </div>
   );
